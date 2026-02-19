@@ -1,0 +1,3 @@
+invoke-static/range {p0 .. p0}, Lcom/dpmods/dpmodsytdiscord;->showProfileDialog(Landroid/app/Activity;)V
+
+    invoke-static/range {p0 .. p0}, Lcom/dpmods/dpmodsytdialog;->DPDialog(Landroid/content/Context;)V
