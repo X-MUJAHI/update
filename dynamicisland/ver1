@@ -1,0 +1,2 @@
+const/4 v14, -0x1
+invoke-virtual {v10, v14}, Landroid/widget/TextView;->setTextColor(I)V
