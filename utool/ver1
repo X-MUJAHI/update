@@ -6,6 +6,6 @@
   "Button1": "Update",
   "Button1Url": "https://t.me/+AAYD4rjFAb9hMWI1",
   "2Button": false,
-  "ShowTimer": false,
+  "ShowTimer": true,
   "TargetTime": "2025-12-30 18:00:00"
 }
