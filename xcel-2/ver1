@@ -1,12 +1,12 @@
 {
-  "app_expire_date": "2026-12-31",
+  "app_expire_date": "2026-06-10",
   "access_keys": [
     {
-      "key": "ABC123",
+      "key": "MUJAHI",
       "validation_time": "2026-06-15T10:00:00Z"
     },
     {
-      "key": "XYZ789",
+      "key": "PANEL",
       "validation_time": "2026-07-01T23:59:59Z"
     }
   ]
