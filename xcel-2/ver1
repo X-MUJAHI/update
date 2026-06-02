@@ -3,11 +3,13 @@
   "access_keys": [
     {
       "key": "MUJAHI",
-      "validation_time": "2026-06-15T10:00:00Z"
+      "validation_time": "2026-06-15T10:00:00Z",
+      "auto-reset": "Off"
     },
     {
       "key": "PANEL",
-      "validation_time": "2026-07-01T23:59:59Z"
+      "validation_time": "2026-07-01T23:59:59Z",
+      "auto-reset": "On"
     }
   ]
 }
