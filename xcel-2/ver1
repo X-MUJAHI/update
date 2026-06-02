@@ -1,1 +1,13 @@
-json
+{
+  "app_expire_date": "2026-12-31",
+  "access_keys": [
+    {
+      "key": "ABC123",
+      "validation_time": "2026-06-15T10:00:00Z"
+    },
+    {
+      "key": "XYZ789",
+      "validation_time": "2026-07-01T23:59:59Z"
+    }
+  ]
+}
