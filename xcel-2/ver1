@@ -7,7 +7,7 @@
       "auto-reset": "Off"
     },
     {
-      "key": "PANE",
+      "key": "PANEL",
       "validation_time": "2026-07-01T23:59:59Z",
       "auto-reset": "On"
     }
